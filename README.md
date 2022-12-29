@@ -1,7 +1,7 @@
 ## Unique Flower Shop 
 Azure Microsoft Internship Project
-- Project Link: 
-- Demo Video Link:-
+- Project Link: https://kind-cliff-0bf055600.2.azurestaticapps.net
+- Demo Video Link: 
 
 ## Features and Functionalities:-
 - Interactive and responsive UI.
